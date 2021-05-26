@@ -13,3 +13,10 @@
 
   - [Images](OpenCV/images.py)
   - [Video Stream](OpenCV/video.py)
+
+- [Face Detection](FaceDetection/)
+
+  - [Recording Face Data](FaceDetection/savingFaceRec.py)
+  - [Classifying Face](FaceDetection/faceClassifier.py)
+
+- [Snapchat Filters](https://github.com/RGTechno/SnapchatFilters)
