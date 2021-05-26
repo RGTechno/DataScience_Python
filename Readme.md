@@ -20,3 +20,5 @@
   - [Classifying Face](FaceDetection/faceClassifier.py)
 
 - [Snapchat Filters](https://github.com/RGTechno/SnapchatFilters)
+
+- [Recommendation System](Recommendation%20System/)
